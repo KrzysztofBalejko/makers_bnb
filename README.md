@@ -1,6 +1,19 @@
 # Makers BnB
 
-* TBC
+**Team project. Building Air BnB-like application**
+
+**Technology used:**
+
+* Ruby
+* Sinatra
+* RSpec / Capybara
+* PostgreSQL
+* Bootstrap and Bootswatch
+* CSS
+
+**Some screenshots:**
+
+![Screens](public/images/Screenshots.png)
 
 -----
 **User Stories:**
